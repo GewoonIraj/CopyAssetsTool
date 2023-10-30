@@ -2,6 +2,11 @@
 
 This tool helps you copy map assets for Just Dance. It's designed to work hand-in-hand with [Next2UAF](https://github.com/WodsonKun/JustDanceTools/tree/main/%5BTML%5D%20Next2UAF), a tool by [Wodson](https://github.com/WodsonKun) that extracts map assets.
 
+This tool is specifically designed to copy the following `.png` assets from `\[TML] Next2UAF\output\<map_codename>\` to your desired location:
+- `phone_textures` folder
+- `textures` folder
+- (optional) `pictos` folder
+
 ## What You Need
 
 - Python 3.x
