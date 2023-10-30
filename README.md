@@ -14,8 +14,9 @@ This tool is specifically designed to copy the following `.png` assets from `\[T
 ## How to Use
 
 1. Clone or download this repository.
-2. Run `py CopyAssetsTool.py`.
-3. Follow the prompts to set up your paths in `config.json`.
+2. Install the required packages: `pip install colorama`.
+3. Run `py CopyAssetsTool.py`.
+4. Follow the prompts to set up your paths in `config.json`.
 - **Note:** It's recommended to use the `Next2UAF` path, for example: `\[TML] Next2UAF\output\`.
 
 That's it! Enjoy.
